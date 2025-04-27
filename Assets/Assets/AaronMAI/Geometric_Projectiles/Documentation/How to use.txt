@@ -1,0 +1,10 @@
+Projectiles
+
+Simple drag and drop from the prefabs folder.
+
+Every prefab is properly organised in their seperate folders. Very easy to use and customize. 
+If you face any problem please contact me and I'll be happy to help you.
+ 
+Important
+
+only Work in URP!
