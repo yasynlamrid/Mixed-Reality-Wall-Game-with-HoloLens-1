@@ -32,7 +32,9 @@ Device arm: For putting on and removing the HoloLens.
 Micro-USB cable: For charging the device or connecting it to a computer.
 
 Power supply: To plug the HoloLens into a power outlet [2].
+
 ![](Images/img0.png)
+
 ![](Images/img1.png)
 
 ### 2.4 Spatial Mapping Setup
